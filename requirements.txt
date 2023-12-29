@@ -1,7 +1,8 @@
-tensorflow==2.3.1
+streamlit
+Pillow
 numpy
 scikit-learn
+tensorflow==2.3.1
 tqdm
-Pillow
 opencv-python
 bing-image-downloader
