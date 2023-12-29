@@ -3,6 +3,8 @@ Pillow
 numpy
 scikit-learn
 tensorflow
+os
+pickle
 tqdm
 opencv-python
 bing-image-downloader
