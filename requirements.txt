@@ -2,7 +2,7 @@ streamlit
 Pillow
 numpy
 scikit-learn
-tensorflow==2.3.1
+tensorflow
 tqdm
 opencv-python
 bing-image-downloader
